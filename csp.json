@@ -1,0 +1,5 @@
+{
+  "dev": "default-src * 'unsafe-inline' 'unsafe-eval';",
+  "prod": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://api.example.com; base-uri 'self';",
+  "default": "default-src 'self';"
+}
