@@ -149,14 +149,3 @@ Now it will work consistently on macOS, Linux, and Windows.
 4. Look for any CSP violations or blocked resources
 
 ---
-
-## 👨‍💻 Author
-
-Created by [@Sameer Thite](https://github.com/TheJavaScriptDojoOfficial)  
-Subscribe to [The JavaScript Dojo](https://www.youtube.com/@thejavascriptdojo)
-
----
-
-## 📄 License
-
-MIT © Sameer Thite
